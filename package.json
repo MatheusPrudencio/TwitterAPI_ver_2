@@ -1,0 +1,18 @@
+{
+  "name": "tweet-counter-redis",
+  "version": "1.0.0",
+  "description": "Realtime tweet keyword counter using Redis and Handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo S. Martins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "ntwitter": "^0.5.0",
+    "redis": "^3.0.2"
+  }
+}
