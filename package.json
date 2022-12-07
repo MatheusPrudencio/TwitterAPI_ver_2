@@ -9,7 +9,7 @@
   "author": "Diogo S. Martins",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "handlebars": "^4.7.6",
     "jquery": "^3.5.1",
     "ntwitter": "^0.5.0",
